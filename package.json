@@ -1,13 +1,13 @@
 {
   "name": "05tut",
   "version": "1.0.0",
-  "description": "Node.js Web Server tutorial",
+  "description": "nedejs web server project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Dave Gray",
+  "author": "Sujith",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.23.0",
