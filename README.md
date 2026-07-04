@@ -1,15 +1,56 @@
-# "Node.js Tutorial - How to Build a Web Server"
+# Node.js Web Server
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+A beginner-friendly Node.js web server project built while learning the fundamentals of Node.js.
 
-**Description:**
+## Features
 
-This repository shares the code applied during the Youtube tutorial. The tutorial is part of a [Node.js for Beginners Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw) on my channel.  
+- Create an HTTP server
+- Serve HTML, CSS, JavaScript, images, and JSON files
+- Handle routes and file paths
+- Custom 404 page
+- Basic URL redirects
+- Request and error logging using EventEmitter
+- File handling with `fs` and `fs.promises`
+- Environment variable support using `process.env.PORT`
 
-[YouTube Tutorial](https://youtu.be/3ZAKY-CDKog) for this repository.
+## Technologies Used
 
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
+- Node.js
+- JavaScript
+- HTTP Module
+- File System (`fs`)
+- Path Module
+- EventEmitter
 
-### Academic Honesty
+## What I Learned
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+Through this project I learned:
+
+- How an HTTP server works in Node.js
+- How requests and responses are handled
+- Serving static files
+- Reading files with `fs.promises`
+- Working with JSON data
+- Using EventEmitter for logging
+- Using `process.env.PORT` for deployment
+- Basic routing and redirects
+
+## Learning Credit
+
+This project was built as part of my Node.js learning journey by following and understanding the concepts taught in Dave Gray's Node.js tutorial. I wrote, practiced, and completed the project to strengthen my understanding of Node.js.
+
+Tutorial: https://youtu.be/3ZAKY-CDKog
+
+GitHub Repository: https://github.com/gitdagray/nodejs_web_server
+
+## Future Improvements
+
+- Build a REST API
+- Add Express.js
+- Connect a database
+- Add authentication
+- Deploy the server online
+
+---
+
+This project is part of my journey toward becoming an AI System Engineer.
